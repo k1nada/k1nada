@@ -32,7 +32,7 @@ const k1nada = {
   <a href="https://github.com/k1nada/petspace-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=k1nada&repo=petspace-frontend&bg_color=161b22&border_color=30363d&title_color=ffffff&icon_color=8E1A24&text_color=c9d1d9&description_lines_count=2" alt="petspace-frontend" /></a>&nbsp;<a href="https://github.com/k1nada/petspace-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=k1nada&repo=petspace-backend&bg_color=161b22&border_color=30363d&title_color=ffffff&icon_color=8E1A24&text_color=c9d1d9&description_lines_count=2" alt="petspace-backend" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/k1nada/cat-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=k1nada&repo=cat-project&bg_color=161b22&border_color=30363d&title_color=ffffff&icon_color=8E1A24&text_color=c9d1d9&description_lines_count=2" alt="cat-project" /></a>
+  <a href="https://github.com/k1nada/luggage-store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=k1nada&repo=luggage-store&bg_color=161b22&border_color=30363d&title_color=ffffff&icon_color=8E1A24&text_color=c9d1d9&description_lines_count=2" alt="luggage-store" /></a>&nbsp;<a href="https://github.com/k1nada/cat-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=k1nada&repo=cat-project&bg_color=161b22&border_color=30363d&title_color=ffffff&icon_color=8E1A24&text_color=c9d1d9&description_lines_count=2" alt="cat-project" /></a>
 </p>
 
 <h3 align="center">Activity</h3>
